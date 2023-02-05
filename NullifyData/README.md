@@ -2,4 +2,4 @@ All the code for Nullify. Everything is open source but that doesn't mean you ca
 
 Feel free to fork on the [Nullify](https://github.com/notplu/Nullify) repo.
 
-Code is on this repo to bypass school blocks.
+Source code is on this repo to bypass school blocks.
