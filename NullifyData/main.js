@@ -4,7 +4,7 @@ if (nullcheck === undefined || nullcheck === null) { // checks if nullify is alr
 // sets min farmer to disable on startup
 togglemin = 1;
 
-  // checks if a lesson is open
+// checks if a lesson is open
 if (window['html5Iframe'] === undefined || window['html5Iframe'] === null) {
 
 // drag gui code, dont't bother trying to decipher it lmao
