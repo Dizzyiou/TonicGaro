@@ -1,1 +1,1 @@
-alert('Nullify is currently down right now. Fixing a "patch" i-Ready did. Please check back later.');
+alert('Nullify is currently down right now. Please check back later.')
