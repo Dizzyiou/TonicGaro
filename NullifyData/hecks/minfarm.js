@@ -6,7 +6,7 @@ if (window['html5Iframe'] === undefined || window['html5Iframe'] === null || win
 } else { if (togglemin === 1) { // sets min farmer to enable
     togglemin = 0;
     // enables min farmer, auto exits lesson once enabled
-    html5Iframe.contentWindow.localStorage.cheats = '{"timeoutValue":"1000000000000000000","timeoutMode":true}'
+    html5Iframe.contentWindow.localStorage.cheats = '{"timeoutValue":"1000000000000000000","timeoutMode":true}' // shhh don't tell iready about this
     alert('Enabled. Click again to disable. Open any lesson to start farming. You will only gain minutes while inside a lesson.')
     alert('Going onto a new tab will prevent Min Farmer from working. Putting a new tab on a seperate window should solve this')
     exit()
