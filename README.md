@@ -11,4 +11,4 @@
 
 **Other**
 
-* [Garo's Dig Site](https://digsite.garoikana.repl.co/)
+* [Dig Site Source Code](https://github.com/TonicGaro/DigSiteSrc)
