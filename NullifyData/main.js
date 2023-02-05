@@ -93,7 +93,7 @@ const originalScript = "https://cdn.i-ready.com/instruction/student-dashboard/re
 const modifedScript = "https://raw.githubusercontent.com/TonicGaro/TonicGaro/main/NullifyData/appchunk/app-21.chunk.js";
 const scriptLocationOnLoad = document.scripts[12].src;
 
-// override app-12.chunk.js to add custom hooks
+// override app-21.chunk.js to add custom hooks
 if (scriptLocationOnLoad == originalScript) { //checks if the script has already been loaded, if it has page gets reloaded
     try { nullifyModal("Error!", "Please run Nullify before opening lessons.", goToDashboard) } 
     catch (error) { alert('Please run Nullify before opening lessons. Reloading...'), location.reload() }
